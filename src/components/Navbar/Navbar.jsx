@@ -11,6 +11,13 @@ const Navbar = () => {
       <div className="app__navbar-logo">
         <img src={images.gericht} alt="gericht-logo" />
       </div>
+
+
+
+
+
+
+      
       <ul className="app__navbar-links">
         <li className="-__opensans">
           <a href="#home">Home</a>
