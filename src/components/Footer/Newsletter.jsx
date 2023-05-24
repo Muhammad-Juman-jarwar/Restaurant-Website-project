@@ -16,6 +16,11 @@ const Newsletter = () => {
           Subscribe
         </button>
       </div>
+
+
+
+
+      
     </div>
   )
 }
